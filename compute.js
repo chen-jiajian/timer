@@ -1,11 +1,11 @@
 //定义全局变量
 var WINDOW_WIDTH = 1024;
-var WINDOW_HEIGHT = 768;
+var WINDOW_HEIGHT = 567;
 var RADIUS = 8;//小球半径
 var MARGIN_LEFT=0;
 var MARGIN_TOP=0; 
 
-const ENDTIME=new Date(2017,4,10,0,0,0);//截止日期
+const ENDTIME=new Date(2017,4,19,0,0,0);//截止日期
 var CURTIME=0;//现在时间,用秒表示
 var balls=[];//彩色小球数组
 const colors=["#bebebe","#0099CC", "#E0E0E0", "#AA66CC",
